@@ -1,6 +1,6 @@
 # Kaggle Notebooks Repository
 
-This repository contains my Kaggle notebooks for data science and machine learning competitions, playgrounds, and exploratory data analysis. 
+This repository contains some but not all my Kaggle notebooks for data science and machine learning competitions, playgrounds, and exploratory data analysis. See my Kaggle profile link below for all of my previous work.
 
 ## About
 [My Kaggle Profile](https://www.kaggle.com/aaronisomaisom3)
